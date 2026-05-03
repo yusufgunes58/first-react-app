@@ -1,0 +1,36 @@
+.course {
+    width: 300px;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    margin: 10px;
+    
+    display: inline-block;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.course h4 {
+    margin: 0;
+    padding: 2px;
+    color: red;
+}
+
+.course h5 {
+    margin: 0;
+    color: #333;
+    padding: 5px;
+    font-weight: normal;
+}
+
+.course h3 {
+    margin: 0;
+    padding: 15px;
+}
+
+.course a {
+    margin-left: 200px;
+    margin-top: 8px;
+    text-decoration: none;
+    color: blue;
+}
